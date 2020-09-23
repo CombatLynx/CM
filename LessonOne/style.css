@@ -1,0 +1,127 @@
+td.pictures {
+    border: 0;
+}
+
+.image {
+    float: right;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: 800;
+}
+
+.line {
+}
+
+table {
+    border-collapse: collapse;
+}
+
+body {
+    padding: 3vw 10vw;
+    font-family: Arial, sans-serif;
+}
+
+caption {
+    text-align: left;
+    font-weight: 800;
+}
+
+th, td {
+    border: 1px solid #06069d;
+    padding: 0.2% 0.9%;
+}
+
+th, td:nth-child(1) {
+    text-align: left;
+    width: 20vw;
+    font-weight: 800;
+}
+
+th, td:nth-child(2) {
+    text-align: left;
+    width: 70vw;
+}
+
+th, tr:nth-child(1) {
+    font-weight: 800;
+}
+
+b.strong {
+    font-weight: bold;
+}
+
+b.lite {
+    font-weight: 300;
+}
+
+td.lite {
+    font-weight: 300;
+    vertical-align: top;
+}
+
+
+div {
+    font-weight: 800;
+}
+
+.comment {
+    text-align: center;
+    vertical-align: top;
+}
+
+td.level {
+    text-align: left;
+    vertical-align: top;
+}
+
+td.tableLenProg {
+    text-align: center;
+    width: 10%;
+}
+
+.tableLenProgThree {
+    width: 15%;
+    text-align: center;
+}
+
+.tableLenProgFour {
+    text-align: center;
+}
+
+th.topLeft {
+    text-align: left;
+    vertical-align: top;
+}
+
+th.center {
+    text-align: center;
+}
+
+td.lite2 {
+    vertical-align: center;
+    font-weight: 300;
+}
+
+.foot {
+    text-align: justify;
+    font-size: small;
+}
+
+.imgFront {
+    width: 40vw;
+    height: 10vw;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 100px;
+}
+
+td.exit {
+    vertical-align: top;
+    text-align: center;
+    padding: 0.3vw;
+}
